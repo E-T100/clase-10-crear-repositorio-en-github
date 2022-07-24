@@ -524,6 +524,7 @@ main .mal {
 }
 
 /*Galería de imágenes*/
+/*section se integró a rama main al fusionar rama main y rama 1*/
 
 section {
   display: grid;
